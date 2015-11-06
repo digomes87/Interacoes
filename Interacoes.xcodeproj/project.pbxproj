@@ -14,6 +14,7 @@
 		F596E5951BED24AA00E8EC9D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F596E5941BED24AA00E8EC9D /* Images.xcassets */; };
 		F596E5981BED24AA00E8EC9D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F596E5961BED24AA00E8EC9D /* LaunchScreen.xib */; };
 		F596E5A41BED24AA00E8EC9D /* InteracoesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F596E5A31BED24AA00E8EC9D /* InteracoesTests.swift */; };
+		F596E5B81BED2CCB00E8EC9D /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F596E5B71BED2CCB00E8EC9D /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		F596E59D1BED24AA00E8EC9D /* InteracoesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InteracoesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F596E5A21BED24AA00E8EC9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F596E5A31BED24AA00E8EC9D /* InteracoesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteracoesTests.swift; sourceTree = "<group>"; };
+		F596E5B71BED2CCB00E8EC9D /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				F596E58B1BED24AA00E8EC9D /* AppDelegate.swift */,
 				F596E58D1BED24AA00E8EC9D /* FirstViewController.swift */,
 				F596E58F1BED24AA00E8EC9D /* SecondViewController.swift */,
+				F596E5B71BED2CCB00E8EC9D /* ThirdViewController.swift */,
 				F596E5911BED24AA00E8EC9D /* Main.storyboard */,
 				F596E5941BED24AA00E8EC9D /* Images.xcassets */,
 				F596E5961BED24AA00E8EC9D /* LaunchScreen.xib */,
@@ -217,6 +220,7 @@
 			files = (
 				F596E5901BED24AA00E8EC9D /* SecondViewController.swift in Sources */,
 				F596E58C1BED24AA00E8EC9D /* AppDelegate.swift in Sources */,
+				F596E5B81BED2CCB00E8EC9D /* ThirdViewController.swift in Sources */,
 				F596E58E1BED24AA00E8EC9D /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
